@@ -23,9 +23,9 @@ Mobile.tap(findTestObject('Object Repository/android.widget.TextView - Login'), 
 
 Mobile.tap(findTestObject('Object Repository/android.widget.TextView - Connect with Facebook'), 0)
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText'), 'nafihermawan@gmail.com', 0)
+Mobile.setText(findTestObject('Object Repository/android.widget.EditText'), '', 0)
 
-Mobile.setEncryptedText(findTestObject('Object Repository/android.widget.EditText (1)'), 'YKvq9U19B336U3DDZd1pig==', 0)
+Mobile.setEncryptedText(findTestObject('Object Repository/android.widget.EditText (1)'), 'HeCM15nHKBI=', 0)
 
 Mobile.tap(findTestObject('Object Repository/android.widget.Button - Masuk'), 0)
 
